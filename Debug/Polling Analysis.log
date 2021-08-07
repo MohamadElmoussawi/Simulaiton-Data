@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\User\source\repos\Polling Analysis\Polling Analysis\main.cpp(66,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Polling Analysis\Polling Analysis\main.cpp(93,23): warning C4018: '<': signed/unsigned mismatch
+  StateData.cpp
+  Generating Code...
+  Polling Analysis.vcxproj -> C:\Users\User\source\repos\Polling Analysis\Debug\Polling Analysis.exe
